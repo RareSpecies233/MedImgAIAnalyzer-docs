@@ -7,7 +7,16 @@ MedImgAIAnalyzer-docs
 ├── 前端项目介绍.txt
 └── README.md
 ```
+---
 
+[前端项目介绍](前端项目介绍.md)
+
+---
+
+## 相关仓库
+
+- [MedImgAIAnalyzer-vue3](https://github.com/Rare-Specie/MedImgAIAnalyzer-vue3) — Vue3 前端
+- [MedImgAIAnalyzer-cppServer](https://github.com/Rare-Specie/MedImgAIAnalyzer-cppServer) — C++ 后端
 
 ---
 
