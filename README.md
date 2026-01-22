@@ -15,11 +15,12 @@
 
 ## 文档：
 
+- [后端文件如何管理.md](后端文件如何管理.md)
 - [cpp后端如何与python进行交互.md](cpp后端如何与python进行交互.md)
 - [由前端定义的api.txt(施工中!!!)](由前端定义的api.txt)
 - [前端项目介绍.md](前端项目介绍.md)
 - [论文Pdf](s43856-025-00953-0.pdf)
-- [Medical data preprocessing说明.md](edical%20data%20preprocessing说明.md)
+- [Medical data preprocessing说明.md](Medical%20data%20preprocessing说明.md)
 - [U-SAM说明.md](U-SAM说明.md)
 
 ---
