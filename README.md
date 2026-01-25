@@ -11,7 +11,7 @@
 
 - [MedImgAIAnalyzer-vue3](https://github.com/Rare-Specie/MedImgAIAnalyzer-vue3) — Vue3 前端
 - [MedImgAIAnalyzer-cppServer](https://github.com/Rare-Specie/MedImgAIAnalyzer-cppServer) — C++ 后端
-- [MedImgAIAnalyzer-cppServer](https://github.com/Rare-Specie/MedImgAIAnalyzer-tools) — 一些小工具
+- [MedImgAIAnalyzer-tools](https://github.com/Rare-Specie/MedImgAIAnalyzer-tools) — 一些小工具
 
 ---
 
