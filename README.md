@@ -30,14 +30,14 @@
 **注意:代码已更新V2**
 
 ### V2
-代码可能会做做解析，可暂时先参考V1的说明[Medical data preprocessing说明.md](Medical%20data%20preprocessing说明.md)
+代码可能会做做解析，可暂时先参考V1的说明[Medical data preprocessingV1说明.md](Medical%20data%20preprocessing说明.md)
 - [压缩包[7z]](Medical%20data%20preprocessingV2.7z)
 - [GitHub在线查看](Medical%20data%20preprocessingV2)
 
 ### ~~V1~~
-~~代码已做解析，见[Medical data preprocessing说明.md](Medical%20data%20preprocessing说明.md)~~
-- ~~[压缩包[7z]](Medical%20data%20preprocessing.7z)~~
-- ~~[GitHub在线查看](Medical%20data%20preprocessing)~~
+~~代码已做解析，见[Medical data preprocessingV1说明.md](Medical%20data%20preprocessing说明.md)~~
+- ~~[V1 压缩包[7z]](Medical%20data%20preprocessing.7z)~~
+- ~~[V1 GitHub在线查看](Medical%20data%20preprocessing)~~
 
 
 ---
