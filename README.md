@@ -17,10 +17,8 @@
 
 ## 文档：
 
-- [后端文件如何管理.md](后端文件如何管理.md)【正在修建中】
-- [cpp后端如何与python进行交互.md](cpp后端如何与python进行交互.md)【正在修建中】
-- [由前端定义的api.txt](由前端定义的api.txt)【正在修建中】
-- [前端项目介绍.md](前端项目介绍.md)
+- [临时前端api文档](https://github.com/Rare-Specie/MedImgAIAnalyzer-vue3/blob/main/docs/api.txt)
+- [前端项目介绍.md](https://github.com/Rare-Specie/MedImgAIAnalyzer-vue3/blob/main/docs/%E5%89%8D%E7%AB%AF%E9%A1%B9%E7%9B%AE%E4%BB%8B%E7%BB%8D.md)
 - [论文Pdf](s43856-025-00953-0.pdf)
 - [已有数据 - Medical data preprocessingV1说明.md](Medical%20data%20preprocessing说明.md)
 - [U-SAM说明.md](U-SAM说明.md)
