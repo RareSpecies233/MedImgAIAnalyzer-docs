@@ -17,11 +17,14 @@
 
 ## 文档：
 
-- [前端定义的api文档](https://github.com/Rare-Specie/MedImgAIAnalyzer-vue3/blob/main/docs/API.md)
+- [api文档](https://github.com/Rare-Specie/MedImgAIAnalyzer-cppServer/blob/main/Api.md)
 - [前端项目介绍.md](https://github.com/Rare-Specie/MedImgAIAnalyzer-vue3/blob/main/docs/%E5%89%8D%E7%AB%AF%E9%A1%B9%E7%9B%AE%E4%BB%8B%E7%BB%8D.md)
 - [论文Pdf](s43856-025-00953-0.pdf)
 - [已有数据 - Medical data preprocessingV1说明.md](Medical%20data%20preprocessing说明.md)
 - [U-SAM说明.md](U-SAM说明.md)
+
+**注意**：小工具文档请见其Readme
+**注意**：可能文档未列举完全，请check各个仓库
 
 ---
 
