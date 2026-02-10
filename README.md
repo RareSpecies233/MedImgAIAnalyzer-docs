@@ -1,9 +1,6 @@
 # MedImgAIAnalyzer 的 文档仓库
 请注意，文档可能会有问题，如有问题请联系文档编撰者进行修复
 
-### 项目进度List
-请注意：请在每次开始做这个项目前，务必check项目进度List  
-[【腾讯文档】 项目进度List](https://docs.qq.com/doc/DVXVjeG94bUVUT3hO)
 
 ---
 
