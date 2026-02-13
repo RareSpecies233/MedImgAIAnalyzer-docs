@@ -9,6 +9,7 @@
 - [MedImgAIAnalyzer-vue3](https://github.com/Rare-Specie/MedImgAIAnalyzer-vue3) — Vue3 前端
 - [MedImgAIAnalyzer-cppServer](https://github.com/Rare-Specie/MedImgAIAnalyzer-cppServer) — C++ 后端
 - [MedImgAIAnalyzer-tools](https://github.com/Rare-Specie/MedImgAIAnalyzer-tools) — 一些小工具
+- [One-key_U-SAM](https://github.com/RareSpecies233/One-key_U-SAM) — 修改过的一键可在windows训练的脚本
 
 ---
 
