@@ -11,6 +11,7 @@
 - [MedImgAIAnalyzer-tools](https://github.com/Rare-Specie/MedImgAIAnalyzer-tools) — 一些小工具
 - [One-key_U-SAM](https://github.com/RareSpecies233/One-key_U-SAM) — 修改过的一键可在windows训练的脚本
 - [Tiny-RAG-LLM](https://github.com/RareSpecies233/Tiny-RAG-LLM) — 使用在线LLM API的简易RAG项目
+- [MedImgClient](https://github.com/RareSpecies233/MedImgClient) — 客户端/守护进程
 
 ---
 
